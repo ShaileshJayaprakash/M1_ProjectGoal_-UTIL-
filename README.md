@@ -1,1 +1,1 @@
-# M1_ProjectGoal_-UTIL-
+# M1_ProjectGoal_UTIL
