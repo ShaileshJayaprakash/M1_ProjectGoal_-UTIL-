@@ -20,10 +20,10 @@ The customer account includes customer contact, profile information, account num
 Each customer in the system has an account balance, which affects any invoices requested by the customer and any payments done by the customer.
 
 ## 5W's and 1H
-![](6_ImagesAndVideos/5W's%20and%201H.jpg)
+![](/6_ImagesAndVideos/5W's%20and%201H.jpg)
   
 ## SWOT Analysis
-![]()
+![](/6_ImagesAndVideos/SWOT%20Analysis.jpg)
   
 ## Requirements
   
