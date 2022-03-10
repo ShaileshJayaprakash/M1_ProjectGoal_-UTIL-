@@ -4,6 +4,7 @@
 ![codiga grade](https://api.codiga.io/project/31812/score/svg)
 ![codiga grade](https://api.codiga.io/project/31812/status/svg)
 [![CI](https://github.com/ShaileshJayaprakash/M1_ProjectGoal_-UTIL-/actions/workflows/build.yml/badge.svg)](https://github.com/ShaileshJayaprakash/M1_ProjectGoal_-UTIL-/actions/workflows/build.yml)
+[![cppcheck-action](https://github.com/ShaileshJayaprakash/M1_ProjectGoal_-UTIL-/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/ShaileshJayaprakash/M1_ProjectGoal_-UTIL-/actions/workflows/cppcheck.yml)
 
 ## Codacy Badge
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/ccd2f3bbff69441c98c374ed508ec0e5)](https://www.codacy.com/gh/ShaileshJayaprakash/M1_ProjectGoal_-UTIL-/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=ShaileshJayaprakash/M1_ProjectGoal_-UTIL-&amp;utm_campaign=Badge_Grade)
