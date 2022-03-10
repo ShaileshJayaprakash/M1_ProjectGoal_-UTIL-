@@ -63,6 +63,6 @@ Each customer in the system has an account balance, which affects any invoices r
 
 
 ### * Documentation is done for the project with Doxygen
-### * Codacy, Codiga badge work done
+### * Codacy, Codiga,cpp checck cl badge work done
 ### * Implementation is done and the file runs succesfully
 
