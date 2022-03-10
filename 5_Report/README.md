@@ -60,6 +60,26 @@ Each customer in the system has an account balance, which affects any invoices r
 |H_02|check Whether the mobile number given contains only 10 digits|10 digit integer|The 10 digit number should be assigned to mobile Information placeholder|Success|
 |H_03|Checking whether the amount which customer wants to pay is less than or equal to his wallet balance|1.Floating point value 2. integer|Debit the used amount from Customer's wallet and update the new balance in real-time|Success|
 
+## Output
+
+## Searching the account
+![](/6_ImagesAndVideos/Searching%20the%20account.jpeg)
+## Paying the bills
+![](/6_ImagesAndVideos/Paying%20the%20bills.jpeg)
+## Top-up balance
+![](/6_ImagesAndVideos/Top-up%20Balance.jpeg)
+## Exit
+![](/6_ImagesAndVideos/Exit.jpeg)
+
+## Badges
+![codiga grade](https://api.codiga.io/project/31812/score/svg)
+![codiga grade](https://api.codiga.io/project/31812/status/svg)
+[![CI](https://github.com/ShaileshJayaprakash/M1_ProjectGoal_-UTIL-/actions/workflows/build.yml/badge.svg)](https://github.com/ShaileshJayaprakash/M1_ProjectGoal_-UTIL-/actions/workflows/build.yml)
+[![cppcheck-action](https://github.com/ShaileshJayaprakash/M1_ProjectGoal_-UTIL-/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/ShaileshJayaprakash/M1_ProjectGoal_-UTIL-/actions/workflows/cppcheck.yml)
+
+## Codacy Badge
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/ccd2f3bbff69441c98c374ed508ec0e5)](https://www.codacy.com/gh/ShaileshJayaprakash/M1_ProjectGoal_-UTIL-/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=ShaileshJayaprakash/M1_ProjectGoal_-UTIL-&amp;utm_campaign=Badge_Grade)
+
 
 
 ### * Documentation is done for the project with Doxygen
