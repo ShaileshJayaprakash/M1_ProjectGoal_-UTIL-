@@ -1,23 +1,17 @@
 
 #include "unity.h"
 #include "Customer_billing.h"
-
-/* Modify these two lines according to the project */
 #include "bill.h"
 #define PROJECT_NAME    "bill"
 
-/* Prototypes for all the test functions */
 void test_searchACustomer(void);
 void test_payBill(void);
 void test_printAllCustomers(void);
 void test_addBalance(void);
 
-/* Required by the unity test framework */
 void setUp(){}
-/* Required by the unity test framework */
 void tearDown(){}
 
-/* Start of the application test */
 int main()
 {
 /* Initiate the Unity Test Framework */
