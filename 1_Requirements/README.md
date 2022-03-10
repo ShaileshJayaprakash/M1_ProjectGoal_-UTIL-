@@ -1,6 +1,6 @@
 
 # Description
-It is a simple console utility app designed to demonstrate the practical use of c programming language.The growth in business,finance and banking also lead to the growth in the need of e-finance applications where all the information regarding the customer transanctions can be maintained online.Online wallet is a console based utility app where a customer can create and maintain an account. This account contains all the information of the customer and can be accessed through mobile phone at the comfort of the customer.
+The E-Finance services are the most sought thing in the modern technology space. All the finance services are still in offline and people do their financial updates and access their accounts mostly by reaching up the respected providers.It is a simple utility app designed to demonstrate the practical use of c programming language.The growth in business,finance and banking also lead to the growth in the need of e-finance applications where all the information regarding the customer transanctions can be maintained online.Online wallet is a console based utility app where a customer can create and maintain an account. This account contains all the information of the customer and can be accessed through mobile phone at the comfort of the customer.
 
 # Identifying Features
 
